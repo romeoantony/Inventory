@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Inventory.Api/Inventory.Api.csproj" Id="b66ab402-328d-4e28-9e38-c62db916d632" />
+  <Project Path="Inventory.Desktop/Inventory.Desktop.csproj" Id="be1cbb34-c6a7-49aa-9a81-6c5f0310d54c" />
+</Solution>
