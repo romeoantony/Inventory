@@ -1,0 +1,45 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+
+# Logs
+*.log
+
+# IIS Express
+/.vs/ExpressWeb.config
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Rider log
+.idea/
+
+# Debug
+*.pdb
+
+# Generated files
+**/obj/**
+**/bin/**
+
+# Local user settings
+*.sln.user
+
+# Files created by Visual Studio for generated files index
+.vs/**/FileContentIndex/

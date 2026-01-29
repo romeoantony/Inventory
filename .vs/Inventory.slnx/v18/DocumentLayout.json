@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Projects\\Inventory\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|f:\\projects\\inventory\\inventory.desktop\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|solutionrelative:inventory.desktop\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|f:\\projects\\inventory\\inventory.desktop\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|solutionrelative:inventory.desktop\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|f:\\projects\\inventory\\inventory.desktop\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|solutionrelative:inventory.desktop\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|f:\\projects\\inventory\\inventory.desktop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|solutionrelative:inventory.desktop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|f:\\projects\\inventory\\inventory.desktop\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|solutionrelative:inventory.desktop\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|f:\\projects\\inventory\\inventory.desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|solutionrelative:inventory.desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|f:\\projects\\inventory\\inventory.desktop\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE1CBB34-C6A7-49AA-9A81-6C5F0310D54C}|Inventory.Desktop\\Inventory.Desktop.csproj|solutionrelative:inventory.desktop\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +47,94 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductView.xaml.cs",
+              "DocumentMoniker": "F:\\Projects\\Inventory\\Inventory.Desktop\\Views\\ProductView.xaml.cs",
+              "RelativeDocumentMoniker": "Inventory.Desktop\\Views\\ProductView.xaml.cs",
+              "ToolTip": "F:\\Projects\\Inventory\\Inventory.Desktop\\Views\\ProductView.xaml.cs",
+              "RelativeToolTip": "Inventory.Desktop\\Views\\ProductView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:26:50.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "F:\\Projects\\Inventory\\Inventory.Desktop\\Views\\ProductView.xaml",
+              "RelativeDocumentMoniker": "Inventory.Desktop\\Views\\ProductView.xaml",
+              "ToolTip": "F:\\Projects\\Inventory\\Inventory.Desktop\\Views\\ProductView.xaml",
+              "RelativeToolTip": "Inventory.Desktop\\Views\\ProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-29T07:26:36.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "F:\\Projects\\Inventory\\Inventory.Desktop\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Inventory.Desktop\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "F:\\Projects\\Inventory\\Inventory.Desktop\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Inventory.Desktop\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:26:22.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Projects\\Inventory\\Inventory.Desktop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Inventory.Desktop\\Models\\Product.cs",
+              "ToolTip": "F:\\Projects\\Inventory\\Inventory.Desktop\\Models\\Product.cs",
+              "RelativeToolTip": "Inventory.Desktop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:26:16.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Projects\\Inventory\\Inventory.Desktop\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Inventory.Desktop\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\Projects\\Inventory\\Inventory.Desktop\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Inventory.Desktop\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:26:12.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\Projects\\Inventory\\Inventory.Desktop\\App.xaml",
+              "RelativeDocumentMoniker": "Inventory.Desktop\\App.xaml",
+              "ToolTip": "F:\\Projects\\Inventory\\Inventory.Desktop\\App.xaml",
+              "RelativeToolTip": "Inventory.Desktop\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-29T07:23:04.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\Projects\\Inventory\\Inventory.Desktop\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Inventory.Desktop\\Views\\MainWindow.xaml",
+              "ToolTip": "F:\\Projects\\Inventory\\Inventory.Desktop\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Inventory.Desktop\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-29T07:21:48.587Z",
+              "EditorCaption": ""
             }
           ]
         }
